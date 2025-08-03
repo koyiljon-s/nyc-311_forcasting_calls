@@ -1,0 +1,11 @@
+Date,Actual,Expected,Anomaly_Score,Note
+2025-07-05,10791,8829,22.2,Unusual spike
+2025-05-11,10425,8594,21.3,Weekend dip
+2025-05-17,10327,8614,19.9,Unusual spike
+2025-05-18,10101,8451,19.5,Weekend dip
+2025-06-24,11451,9581,19.5,Unusual spike
+2025-07-31,322,9074,-96.5,Unusual dip
+2025-06-17,7857,9662,-18.7,Unusual dip
+2025-06-16,8150,9696,-15.9,Monday spike
+2025-07-01,8111,9601,-15.5,Unusual dip
+2025-07-07,8319,9769,-14.8,Monday spike
